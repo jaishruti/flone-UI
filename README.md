@@ -1,0 +1,2 @@
+# flone-UI
+react tailwindcss
